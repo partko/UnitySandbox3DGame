@@ -1,5 +1,6 @@
 using UnityEngine;
 
+// данные одного чанка
 public class ChunkData
 {
     public Vector2Int ChunkPosition;
